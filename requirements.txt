@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-requests
-pillow
 numpy
+opencv-python-headless
+tensorflow
 python-multipart
